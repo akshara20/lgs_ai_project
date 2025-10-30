@@ -1,0 +1,5 @@
+  oracledb
+  google-generativeai
+  python-dotenv
+  sqlparse  # For advanced SQL parsing and validation
+  streamlit  # Optional for web UI
